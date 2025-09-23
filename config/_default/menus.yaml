@@ -1,0 +1,46 @@
+leftnav:
+- identifier: 72ce9fe6-5a86-b84a-e35e-c05914d4f109
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7518eba8-6282-2322-c109-c52341043b32
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 47fd04a7-32aa-9e8c-9794-d16f15b14bd4
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: e95a94fe-19bd-8644-5606-f11d3ad64ac8
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: b9d28ed2-d14a-361e-7941-9746b5768a37
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: a1ea3853-0ba5-20d2-192e-f39967b4646f
+  name: 'Paper 1: Health Care Reform'
+  pageRef: /pages/assignments/paper-1-health-care-reform
+  parent: b9d28ed2-d14a-361e-7941-9746b5768a37
+  weight: 60
+- identifier: 562ffaa1-f4d3-7e41-f32e-6e89c8f4aef9
+  name: 'Paper 2: Gun Control Reform'
+  pageRef: /pages/assignments/paper-2-gun-control-reform
+  parent: b9d28ed2-d14a-361e-7941-9746b5768a37
+  weight: 70
+- identifier: b15aa8d1-1207-ebe3-4b6c-b74d43790d54
+  name: 'Paper 3: Strategic Choices in Policy Change'
+  pageRef: /pages/assignments/paper-3-strategic-choices-in-policy-change
+  parent: b9d28ed2-d14a-361e-7941-9746b5768a37
+  weight: 80
+- identifier: d4c49d66-9677-339e-88f2-27a6f45bebdd
+  name: 'Paper 4: Climate Change Reform'
+  pageRef: /pages/assignments/paper-4-climate-change-reform
+  parent: b9d28ed2-d14a-361e-7941-9746b5768a37
+  weight: 90
+- identifier: 190f564c-64aa-514d-d42d-df09a6cce3b7
+  name: 'Final Project: Oral "Exam"'
+  pageRef: /pages/assignments/final-project-oral-exam
+  parent: b9d28ed2-d14a-361e-7941-9746b5768a37
+  weight: 100
