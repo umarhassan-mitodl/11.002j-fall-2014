@@ -5,6 +5,8 @@ description: This file contains information regarding comparing the strategic ef
 file: /courses/11-002j-making-public-policy-fall-2014/8d1fc0b487bfafe13d1b080c7d433ebe_MIT11_002JF14_pa3stud4.pdf
 file_size: 120227
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
