@@ -46,9 +46,9 @@ HASS ![](/images/educator/icon-question-hass.png)
 
 HASS-S ![](/images/educator/icon-question-hass-s.png)
 
-- Requirement for a [Bachelor of Science in Planning](http://catalog.mit.edu/degree-charts/planning-course-11/)
-- 11.002J/17.30 can be applied toward a [Bachelor of Science in Environmental Engineering Science](http://catalog.mit.edu/degree-charts/engineering-civil-environmental-engineering-course-1-eng/), but is not required
-- 11.002J/17.30 can be applied toward a [Bachelor of Science in Political Science](http://catalog.mit.edu/degree-charts/political-science-course-17/), but is not required
+- Requirement for a {{% resource_link "e19339b9-65ad-4c15-8051-37664c5203bd" "Bachelor of Science in Planning" %}}
+- 11.002J/17.30 can be applied toward a {{% resource_link "e81f9108-5a10-4991-a5fc-7de7364bf348" "Bachelor of Science in Environmental Engineering Science" %}}, but is not required
+- 11.002J/17.30 can be applied toward a {{% resource_link "3ce40981-747f-4b56-b6bf-dd693cec35d3" "Bachelor of Science in Political Science" %}}, but is not required
 
 ### Offered
 
